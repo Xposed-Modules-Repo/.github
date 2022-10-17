@@ -17,4 +17,5 @@ A valid repo should match the following requirements:
 ### Best Practise to release
 
 Create release and upload a valid apk file with abitray tag name. The bot will help you to correct the tag name.
+
 **Note that** editing only the asset of relase won't trigger the bot. So DO NOT upload your apk separately without modifying the content of the realse.
